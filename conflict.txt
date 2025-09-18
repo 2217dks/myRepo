@@ -1,1 +1,2 @@
 hi lol this is a conflict file
+conflict might arise due to this line
